@@ -1,0 +1,6 @@
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\TheNextPalindromeSPOJ\TheNextPalindromeSPOJ\bin\Debug\TheNextPalindromeSPOJ.exe.config
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\TheNextPalindromeSPOJ\TheNextPalindromeSPOJ\bin\Debug\TheNextPalindromeSPOJ.exe
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\TheNextPalindromeSPOJ\TheNextPalindromeSPOJ\bin\Debug\TheNextPalindromeSPOJ.pdb
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\TheNextPalindromeSPOJ\TheNextPalindromeSPOJ\obj\Debug\TheNextPalindromeSPOJ.csprojResolveAssemblyReference.cache
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\TheNextPalindromeSPOJ\TheNextPalindromeSPOJ\obj\Debug\TheNextPalindromeSPOJ.exe
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\TheNextPalindromeSPOJ\TheNextPalindromeSPOJ\obj\Debug\TheNextPalindromeSPOJ.pdb

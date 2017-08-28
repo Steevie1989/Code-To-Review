@@ -1,0 +1,6 @@
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\SmallCalculatorSpojSolution\SmallCalculatorSpojSolution\bin\Debug\SmallCalculatorSpojSolution.exe.config
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\SmallCalculatorSpojSolution\SmallCalculatorSpojSolution\bin\Debug\SmallCalculatorSpojSolution.exe
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\SmallCalculatorSpojSolution\SmallCalculatorSpojSolution\bin\Debug\SmallCalculatorSpojSolution.pdb
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\SmallCalculatorSpojSolution\SmallCalculatorSpojSolution\obj\Debug\SmallCalculatorSpojSolution.exe
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\SmallCalculatorSpojSolution\SmallCalculatorSpojSolution\obj\Debug\SmallCalculatorSpojSolution.pdb
+c:\users\steevie-marvel\documents\visual studio 2015\Projects\SmallCalculatorSpojSolution\SmallCalculatorSpojSolution\obj\Debug\SmallCalculatorSpojSolution.csprojResolveAssemblyReference.cache
